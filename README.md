@@ -9,7 +9,7 @@ Features
 	•	Lists all files on the user’s Desktop.
 	•	Lists all files in the Downloads folder.
 	•	Lists all files in the Documents folder.
-	•	Lists all files on any connected external drives (drive letters D: through Z:).
+	•	Lists all files on any connected external drives.
 	•	Saves the output to a text file on the user’s desktop.
 	•	Handles errors silently and continues processing other directories.
 
@@ -23,9 +23,7 @@ Prerequisites
 Running the Script
 
 	1.	Download the Script: Download the windows_file_lister.ps1 script from this repository.
-	2.	Open PowerShell as Administrator:
-	•	Click on the Start menu, type PowerShell, right-click on Windows PowerShell, and select “Run as Administrator”.
-	3.	Navigate to the script location and run the script.
+	2.	Open PowerShell as Administrator.
  	4.	Output: The script will create a file named files_list.txt on your desktop containing the list of files from the specified directories and external drives.
 
   Script Explanation
