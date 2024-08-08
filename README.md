@@ -39,3 +39,6 @@ Running the Script
  Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
+
+License This project is open-source and available under the MIT License.
+
