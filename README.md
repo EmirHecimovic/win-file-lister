@@ -30,7 +30,7 @@ Running the Script
 
 	•	Output File Initialization: The script initializes or clears the output file located on the desktop.
 	•	Directory Listing: Uses Get-ChildItem to recursively list files in the Desktop, Downloads, and Documents folders.
-	•	External Drives Listing: Identifies external drives then recursively lists files on each external drive.
+	•	External Drives Listing: Identifies external drives, then recursively lists files on each external drive.
 	•	Appending Results: All results are appended to the output file specified on the desktop.
 	•	Completion Notification: Provides a completion message with the location of the output file.
 
