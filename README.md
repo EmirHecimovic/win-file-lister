@@ -36,9 +36,11 @@ Running the Script
 	•	Appending Results: All results are appended to the output file specified on the desktop.
 	•	Completion Notification: Provides a completion message with the location of the output file.
 
- Contributing
+Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
 
-License This project is open-source and available under the MIT License.
+License 
+
+This project is open-source and available under the MIT License.
 
