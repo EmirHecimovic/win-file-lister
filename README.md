@@ -24,7 +24,8 @@ Running the Script
 
 	1.	Download the Script: Download the windows_file_lister.ps1 script from this repository.
 	2.	Open PowerShell as Administrator.
- 	4.	Output: The script will create a file named files_list.txt on your desktop containing the list of files from the specified directories and external drives.
+ 	3.	Output: The script will create a file named files_list.txt on your desktop containing the list of files from
+		the specified directories and external drives.
 
   Script Explanation
 
